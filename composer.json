@@ -1,5 +1,5 @@
 {
-  "name": "SaeedEben/rmq-fix-yuldashev",
+  "name": "saeed-eben/rmq-fix-yuldashev",
   "description": "RabbitMQ driver for Laravel Queue. Supports Laravel Horizon.",
   "license": "MIT",
   "authors": [
